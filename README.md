@@ -20,3 +20,6 @@
 
 # Skin_diseases_project
 > During my exchange program in Singapore, I worked on a project to develop an AI model for the diagnosis of skin diseases. The model aimed to assist users in identifying potential skin conditions by analyzing images, helping them seek timely medical attention and improving diagnostic accuracy. The project also emphasized AI ethics, data accumulation for model improvement, and integration with healthcare services to support medical professionals in their diagnoses.
+
+### Presentation Video
+[Go to YouTube Video](https://youtu.be/-DQuhb3Rxqw?si=bmSd7Xf_hcvCcnKy)
